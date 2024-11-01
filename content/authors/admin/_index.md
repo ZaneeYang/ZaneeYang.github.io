@@ -6,8 +6,8 @@ title: 杨振坤
 #name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: zhenkun
+last_name: yang
 
 # Status emoji
 status:
@@ -31,20 +31,13 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'yzkhfut@.163.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/ZaneeYang
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
+  
 
 interests:
   - Artificial Intelligence
@@ -183,4 +176,10 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Let's explore the wonderful world with curiosity!**
+
+- 🌱 I am currently engaged in postgraduate studies at the School of Future Technology, South China University of Technology, under the guidance of Prof. [Xu Jin](https://www2.scut.edu.cn/ft/2021/1220/c29779a467423/page.htm). Besides, I join the Multi-relational Geometric Information Interaction *(MAGIC)* Research Group at Xi’an Jiaotong University with Prof. [Danyang Wu](https://danyangwucs.github.io/). Research on the Multi-view graph clustering.
+  
+- 💬 I am broadly interested in graph learning and recommender systems. Specifically, my research focuses on solving the problem of personalised recommendations using graph-based models. Recently, I have also been exploring the use of large models in deep learning.
+  
+- ⚡ Before that, I received the B. Eng. degree from the [School of Computer and Information Engineering](http://ci.hfut.edu.cn/), [Hefei University of Technology](http://www.hfut.edu.cn/) in June 2023. During my undergraduate studies, I was awarded the 2022 **National Scholarship (<1%)** and **Anhui Outstanding Graduate (<1%)**.
