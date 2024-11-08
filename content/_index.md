@@ -71,6 +71,8 @@ sections:
       # Choose a layout view
       view: article-grid
       columns: 1
+      background:
+        color: rgb(247, 247, 247)
   - block: collection
     id: papers
     content:
@@ -82,6 +84,9 @@ sections:
     design:
       view: article-grid
       columns: 1
+      css_class: dark
+      background:
+        color: rgb(40, 40, 40)
   # - block: collection
   #   content:
   #     title: Recent Publications
@@ -131,6 +136,8 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+      background:
+        color: rgb(247, 247, 247)
   - block: resume-experience
     id: experience
     content:
@@ -141,6 +148,9 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+      css_class: dark
+      background:
+        color: rgb(40, 40, 40)
 
     
   - block: cta-card
