@@ -135,6 +135,7 @@ sections:
     id: experience
     content:
       username: admin
+      view: awards
     design:
       # Hugo date format
       date_format: 'January 2006'
