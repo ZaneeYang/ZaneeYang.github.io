@@ -33,7 +33,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Recent Blogs
       subtitle: ''
       text: ''
       page_type: post
