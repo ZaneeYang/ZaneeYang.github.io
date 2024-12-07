@@ -15,7 +15,7 @@ sections:
       text: ""
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/My_LaTeX_Resume.pdf
     design:
       css_class: dark
       # 增加内容宽度
