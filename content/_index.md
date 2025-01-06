@@ -107,13 +107,13 @@ sections:
     id: experience
     content:
       username: admin
-      view: awards
+      view: timeline
     design:
-      date_format: 'January 2006'
+      date_format: 'Jan 2006'
       is_education_first: false
       columns: "1"
       spacing:
-        padding: ["2rem", "0", "2rem", "0"]
+        padding: ["3rem", "0", "3rem", "0"]
       css_class: dark
       background:
         color: rgb(40, 40, 40)
